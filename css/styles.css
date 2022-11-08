@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.2em;
+  color: #40514E;
+}
+h1{
+  margin:50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+.pro{
+  text-decoration: underline;
+}
+h2{
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', cursive;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', cursive;
+}
+.container{
+  padding-top: 120px;
+  background-color: #E4F9F5;
+  position: relative;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:75px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 250px;
+}
+.mountain{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+}
+.middle-container{
+  padding-top: 50px;
+  border: 0 10% 0 10%;
+}
+.profile{
+  width: 50%;
+  margin: auto;
+}
+.profile p{
+  text-align:center;
+  margin: 10px 1rem 90px 1rem;
+}
+.skills{
+  padding: 50px;
+}
+.skill-row{
+  width: 60%;
+  margin: 100px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.coding-image{
+  width: 25%;
+  float: left;
+  margin: 0 0 25px 0;
+}
+.java-image{
+  width: 25%;
+  float: right;
+  margin: 0 25px 0 0;
+}
+hr{
+    width: 4%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+}
+.contact-me{
+  padding-top: 50px;
+}
+.contact-me p{
+  padding-top: 30px;
+  padding-bottom:  50px;
+}
+.btn{
+  font-family: 'Merriweather', serif;
+  border-radius: 5px;
+  color: white;
+  background-color: #11999E;
+  margin: 500px 50px 500px 50px;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+.bottom-container{
+  margin-top: 60px;
+  padding-top: 50px;
+  background-color: #66BFBF;
+  height: 150px;
+  width: 100%;
+  word-spacing: 30px;
+}
+.bottom-container a{
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+  font-size: 15px;
+  text-decoration: none;
+}
+.bottom-container p{
+  margin-top: 40px;
+  margin-bottom: 50px;
+  color: white;
+  font-size: 10px;
+}
